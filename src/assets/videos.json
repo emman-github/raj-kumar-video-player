@@ -1,0 +1,372 @@
+{
+"data": {
+"video": {
+"id": 9,
+"video_uid": "15d8530379feca",
+"video_title": "Test Video",
+"video_description": "<p>Test video</p>",
+"video_thumbnail": "/uploads/images/15d5c0e020b046/15d852fb9c34a7_thumb.png",
+"video_duration": "00:44",
+"created_at": "2019-09-20 20:01:59",
+"updated_at": "2019-09-20 20:02:05",
+"mp4_video_source": "/uploads/videos/15d5c0e020b046/15d852fb9c2b22-encoded.mp4",
+"m3u8_video_source": "/uploads/videos/15d5c0e020b046/15d852fbac2cb5-1569009594/15d852fbac2cb5-1569009594_master.m3u8",
+"user": {
+"name": "Jim Doe",
+"email": "jim@doe.com",
+"uuid": "15d5c0e020b046",
+"avatar_image_filename": "",
+"created_at": "2019-08-20 15:13:06",
+"updated_at": "2019-09-20 19:58:56",
+"last_login": "2019-09-20 19:58:56"
+},
+"channel": {
+"channel_name": "Tarakulqw",
+"channel_description": "<p>Test channelgshsh</p>",
+"slug": "15d852f968f5b7",
+"image_filename": "/uploads/images/15d7f5ed631e1c/15de20bdfe2f8b.jpeg",
+"created_at": "2019-09-20 19:59:18",
+"updated_at": "2019-11-30 06:27:44",
+"channel_profile_image": "/img/default-channel-image.jpg",
+"facebook": null,
+"twitter": null,
+"google": null
+}
+},
+"relatedVideos": [
+{
+"id": 27,
+"video_uid": "15ded5e3eb0688",
+"video_title": "Shoes Again!",
+"video_thumbnail": "/uploads/images/15d65699cc0d6a/paint-9_15ded5e55f1d66.jpg",
+"mp4_video_source": "/uploads/videos/15d65699cc0d6a/15ded5e316db87-encoded.mp4",
+"m3u8_video_source": "/uploads/videos/15d65699cc0d6a/15ded5e3208d24-1575837234/15ded5e3208d24-1575837234_master.m3u8",
+"video_duration": "00:29",
+"video_created_at": "2019-12-08 20:34:06",
+"channel_slug": "15d7782078e98c",
+"channel_name": "Travel Guide",
+"video_view_count": "1"
+},
+{
+"id": 26,
+"video_uid": "15ded5dfbbee79",
+"video_title": "One More Video",
+"video_thumbnail": "/uploads/images/15d65699cc0d6a/red-tomatoes-673673_15ded5e02c862c.jpg",
+"mp4_video_source": "/uploads/videos/15d65699cc0d6a/15ded5d96270bf-encoded.mp4",
+"m3u8_video_source": "/uploads/videos/15d65699cc0d6a/15ded5d96cc945-1575837078/15ded5d96cc945-1575837078_master.m3u8",
+"video_duration": "00:36",
+"video_created_at": "2019-12-08 20:32:59",
+"channel_slug": "15dbb79a511e4d",
+"channel_name": "Tony Chaplin",
+"video_view_count": null
+},
+{
+"id": 25,
+"video_uid": "15ded5cf39c390",
+"video_title": "Another Video About Boots",
+"video_thumbnail": "/uploads/images/15d5c0e01d7013/variety-of-fruits-1070982_15ded5d1257a11.jpg",
+"mp4_video_source": "/uploads/videos/15d5c0e01d7013/15ded5ce6b35ec-encoded.mp4",
+"m3u8_video_source": "/uploads/videos/15d5c0e01d7013/15ded5ce74ade8-1575836903/15ded5ce74ade8-1575836903_master.m3u8",
+"video_duration": "00:29",
+"video_created_at": "2019-12-08 20:28:35",
+"channel_slug": "15de36e5097b55",
+"channel_name": "Whatever",
+"video_view_count": null
+},
+{
+"id": 24,
+"video_uid": "15ded5cbec33bf",
+"video_title": "Bikeland",
+"video_thumbnail": "/uploads/images/15d5c0e01d7013/woman-laughing-2253065_15ded5cc513658.jpg",
+"mp4_video_source": "/uploads/videos/15d5c0e01d7013/15ded5c46a7422-encoded.mp4",
+"m3u8_video_source": "/uploads/videos/15d5c0e01d7013/15ded5c47514e2-1575836743/15ded5c47514e2-1575836743_master.m3u8",
+"video_duration": "00:44",
+"video_created_at": "2019-12-08 20:27:42",
+"channel_slug": "15de36e5097b55",
+"channel_name": "Whatever",
+"video_view_count": null
+},
+{
+"id": 23,
+"video_uid": "15ded5c034cf37",
+"video_title": "More Videos",
+"video_thumbnail": "/uploads/images/15d5c0e01d7013/15ded5b9f5c00b_thumb.png",
+"mp4_video_source": "/uploads/videos/15d5c0e01d7013/15ded5b9f5bf51-encoded.mp4",
+"m3u8_video_source": "/uploads/videos/15d5c0e01d7013/15ded5ba00e124-1575836576/15ded5ba00e124-1575836576_master.m3u8",
+"video_duration": "00:36",
+"video_created_at": "2019-12-08 20:24:35",
+"channel_slug": "15de36e5097b55",
+"channel_name": "Whatever",
+"video_view_count": null
+},
+{
+"id": 12,
+"video_uid": "15d8531b2be1ca",
+"video_title": "Another Test Video",
+"video_thumbnail": "/uploads/images/15d5c0e0230deb/15d8531a32a9e4_thumb.png",
+"mp4_video_source": "/uploads/videos/15d5c0e0230deb/15d8531a32a910-encoded.mp4",
+"m3u8_video_source": "/uploads/videos/15d5c0e0230deb/15d8531a3d42ae-1569010083/15d8531a3d42ae-1569010083_master.m3u8",
+"video_duration": "00:29",
+"video_created_at": "2019-09-20 20:08:18",
+"channel_slug": "15d85309e6599b",
+"channel_name": "Test channel",
+"video_view_count": "10"
+},
+{
+"id": 11,
+"video_uid": "15d85313ed271b",
+"video_title": "Roller Coaster",
+"video_thumbnail": "/uploads/images/15d5c0e0230deb/15d8530c34d1cd_thumb.png",
+"mp4_video_source": "/uploads/videos/15d5c0e0230deb/15d8530c34d019-encoded.mp4",
+"m3u8_video_source": "/uploads/videos/15d5c0e0230deb/15d8530c3dc8af-1569009859/15d8530c3dc8af-1569009859_master.m3u8",
+"video_duration": "1:05",
+"video_created_at": "2019-09-20 20:06:22",
+"channel_slug": "15d85309e6599b",
+"channel_name": "Test channel",
+"video_view_count": "55"
+},
+{
+"id": 10,
+"video_uid": "15d85306e68ee7",
+"video_title": "Tabika!",
+"video_thumbnail": "/uploads/images/15d5c0e020b046/15d85306054cd1_thumb.png",
+"mp4_video_source": "/uploads/videos/15d5c0e020b046/15d85306054bcc-encoded.mp4",
+"m3u8_video_source": "/uploads/videos/15d5c0e020b046/15d8530611dcd4-1569009761/15d8530611dcd4-1569009761_master.m3u8",
+"video_duration": "00:29",
+"video_created_at": "2019-09-20 20:02:54",
+"channel_slug": "15d852f968f5b7",
+"channel_name": "Tarakulqw",
+"video_view_count": "19"
+}
+],
+"likes": 2,
+"is_liked": false,
+"dislikes": 1,
+"is_disliked": false,
+"subscribers": 5,
+"is_subscribed": false,
+"views": "284",
+"comments": [
+{
+"comment_text": "This is a test",
+"user_name": "John Doe",
+"uuid": "15d5c0e01d7013",
+"avatar": ""
+}
+],
+"commentCount": 36,
+"replies": [
+{
+"comment_text": "this is first comment",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "This is comment",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "test",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "test",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "testing 2",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "testnew",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "test4",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "test45",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "test45",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "test6",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "teste9`",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "hello",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "best video by arun",
+"user_name": "gaurav arun ji2",
+"uuid": "15d7f3061188fd",
+"avatar": "/uploads/images/15d7f3061188fd/15de33d2e83da9.jpg"
+},
+{
+"comment_text": "hello",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "good",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "this is what",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "hi",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "Hi all",
+"user_name": "gaurav arun ji2",
+"uuid": "15d7f3061188fd",
+"avatar": "/uploads/images/15d7f3061188fd/15de33d2e83da9.jpg"
+},
+{
+"comment_text": "17",
+"user_name": "gaurav arun ji2",
+"uuid": "15d7f3061188fd",
+"avatar": "/uploads/images/15d7f3061188fd/15de33d2e83da9.jpg"
+},
+{
+"comment_text": "Gora",
+"user_name": "gaurav arun ji2",
+"uuid": "15d7f3061188fd",
+"avatar": "/uploads/images/15d7f3061188fd/15de33d2e83da9.jpg"
+},
+{
+"comment_text": "H",
+"user_name": "gaurav arun ji2",
+"uuid": "15d7f3061188fd",
+"avatar": "/uploads/images/15d7f3061188fd/15de33d2e83da9.jpg"
+},
+{
+"comment_text": "It's good",
+"user_name": "gaurav arun ji2",
+"uuid": "15d7f3061188fd",
+"avatar": "/uploads/images/15d7f3061188fd/15de33d2e83da9.jpg"
+},
+{
+"comment_text": "hehe",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "jehdbdjd",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "ndjdhdhd",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "wwwww",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "qqqqqq",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "asdfsdf",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "wwww",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "qqqqqwwww",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "qqqqqwwwwqqq",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "jdhdjdjd",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "fffff",
+"user_name": "Raj5",
+"uuid": "15d7f5ed631e1c",
+"avatar": "/uploads/images/15d7f5ed631e1c/15deb837b7b435.jpg"
+},
+{
+"comment_text": "no next button",
+"user_name": "Sunny Heavens",
+"uuid": "15d83b968cc65e",
+"avatar": "/uploads/images/15d83b968cc65e/15de34602c4b8d.jpg"
+},
+{
+"comment_text": "hi anu",
+"user_name": "gaurav arun ji2",
+"uuid": "15d7f3061188fd",
+"avatar": "/uploads/images/15d7f3061188fd/15de33d2e83da9.jpg"
+}
+],
+"replyCount": 35
+}
+}
